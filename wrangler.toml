@@ -1,4 +1,4 @@
-name = "docker"
+name = "cloudflare-docker-proxy"
 compatibility_date = "2023-12-01"
 
 [dev]
